@@ -57,7 +57,6 @@ var ideaUntil = 233
 var supportPlatforms = ["IIC", "IIU"]
 
 patchPluginXml {
-    name = intellij.pluginName
     version = project.version
 
     sinceBuild = "${ideaSince}"
