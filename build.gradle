@@ -12,7 +12,7 @@ if(System.env.VERSION != null) {
     version 'dev'
 }
 
-var asm_version = '9.5'
+var asm_version = '9.6'
 
 sourceCompatibility='17'
 
